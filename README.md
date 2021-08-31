@@ -2,7 +2,7 @@
 
 ## Repositório de materiais da Semana do Iniciante em Data Science
 ---
-### **Aula 1**
+### **Aula 1** https://youtu.be/3IAyyA_7KKU
 
 ### :white_check_mark: Acesse o PDF do [CHECKLIST DO INICIANTE EM DATA SCIENCE](https://github.com/gitflai/SemanaDoIniciante/blob/main/Checklist%20do%20Iniciante%20em%20Data%20Science%20(1).pdf).
 
